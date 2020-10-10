@@ -328,3 +328,29 @@ ASALocalRun/
 
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
+/MongoVersion/Publicacao/netcoreapp3.1/Trade.runtimeconfig.json
+/MongoVersion/Publicacao/netcoreapp3.1/Trade.runtimeconfig.dev.json
+/MongoVersion/Publicacao/netcoreapp3.1/Trade.exe
+/MongoVersion/Publicacao/netcoreapp3.1/Trade.dll
+/MongoVersion/Publicacao/netcoreapp3.1/Trade.deps.json
+/MongoVersion/Publicacao/netcoreapp3.1/System.Windows.Extensions.dll
+/MongoVersion/Publicacao/netcoreapp3.1/System.Security.Permissions.dll
+/MongoVersion/Publicacao/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/MongoVersion/Publicacao/netcoreapp3.1/System.Drawing.Common.dll
+/MongoVersion/Publicacao/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/MongoVersion/Publicacao/netcoreapp3.1/SharpCompress.dll
+/MongoVersion/Publicacao/netcoreapp3.1/SearchMostHighStocks
+/MongoVersion/Publicacao/netcoreapp3.1/runtimes
+/MongoVersion/Publicacao/netcoreapp3.1/MongoDB.Libmongocrypt.dll
+/MongoVersion/Publicacao/netcoreapp3.1/MongoDB.Driver.dll
+/MongoVersion/Publicacao/netcoreapp3.1/MongoDB.Driver.Core.dll
+/MongoVersion/Publicacao/netcoreapp3.1/MongoDB.Bson.dll
+/MongoVersion/Publicacao/netcoreapp3.1/Microsoft.Win32.SystemEvents.dll
+/MongoVersion/Publicacao/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/MongoVersion/Publicacao/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/MongoVersion/Publicacao/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/MongoVersion/Publicacao/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/MongoVersion/Publicacao/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/MongoVersion/Publicacao/netcoreapp3.1/DnsClient.dll
+/MongoVersion/Publicacao/netcoreapp3.1/ArquivosProcessados
+/MongoVersion/Publicacao/netcoreapp3.1/ArquivosPendentes
